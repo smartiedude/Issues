@@ -1,0 +1,75 @@
+
+Core VSS#show errdisable detect
+ErrDisable Reason                       Detection status
+-----------------                       ----------------
+udld                         Enabled          port
+bpduguard                    Enabled          port
+security-violation           Enabled          port
+channel-misconfig            Enabled          port
+psecure-violation            Enabled          port
+mac-limit                    Enabled          port
+unicast-flood                Enabled          port
+vmps                         Enabled          port
+loopback                     Enabled          port
+pagp-flap                    Enabled          port
+dtp-flap                     Enabled          port
+link-flap                    Enabled          port
+l2ptguard                    Enabled          port
+gbic-invalid                 Enabled          port
+dhcp-rate-limit              Enabled          port
+storm-control                Enabled          port
+inline-power                 Enabled          port
+arp-inspection               Enabled          port
+packet-buffer                Enabled          port
+link-monitor-failure         Enabled          port
+oam-remote-failure critic    Enabled          port
+oam-remote-failure dying-    Enabled          port
+oam-remote-failure link-f    Enabled          port
+dot1ad-incomp-etype          Enabled          port
+dot1ad-incomp-tunnel         Enabled          port
+mvrp                         Enabled          port
+transceiver-incomp           Enabled          port
+VSL transceiver-incomp       Enabled          port
+FEX Licensing module remo    Enabled          port
+Core VSS#
+Core VSS#
+Core VSS#show errdisable recovery
+Recovery Status                       Timer Status
+---------------                       ------------
+udld                                    Disabled
+bpduguard                               Disabled
+security-violation                      Disabled
+channel-misconfig                       Disabled
+vmps                                    Disabled
+pagp-flap                               Disabled
+dtp-flap                                Disabled
+link-flap                               Disabled
+l2ptguard                               Disabled
+psecure-violation                       Disabled
+gbic-invalid                            Disabled
+dhcp-rate-limit                         Disabled
+mac-limit                               Disabled
+unicast-flood                           Disabled
+storm-control                           Disabled
+arp-inspection                          Disabled
+loopback                                Disabled
+link-monitor-failure                    Disabled
+oam-remote-failure critical-event       Disabled
+oam-remote-failure dying-gasp           Disabled
+oam-remote-failure link-fault           Disabled
+dot1ad-incomp-etype                     Not supported
+dot1ad-incomp-tunnel                    Not supported
+mvrp                                    Not supported
+transceiver-incomp                      Not supported
+VSL transceiver-incomp                  Not supported
+packet-buffer                           Not supported
+FEX Licensing module removed            Not supported
+inline-power                            Not supported
+
+Timer interval: 300 seconds
+
+Interfaces that will be enabled at the next timeout:
+
+Core VSS#
+Core VSS#
+Core VSS#
