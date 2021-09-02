@@ -1,0 +1,57 @@
+[Expert@my-fwmanager:0]# cpca_client lscert -dn "cn=cp_mgmt" -stat Valid
+Operation succeeded. rc=0.
+13 certs found.
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 21937   DP = 0
+Not_Before: Tue Nov  5 15:52:46 2019   Not_After: Mon Nov  4 15:52:46 2024
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 26256   DP = 0
+Not_Before: Fri Aug  6 16:22:25 2021   Not_After: Thu Aug  6 16:22:25 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 29955   DP = 0
+Not_Before: Wed Aug  4 16:12:25 2021   Not_After: Tue Aug  4 16:12:25 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 30930   DP = 0
+Not_Before: Tue Aug  3 15:02:24 2021   Not_After: Mon Aug  3 15:02:24 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 37304   DP = 0
+Not_Before: Tue Nov  5 15:52:52 2019   Not_After: Mon Nov  4 15:52:52 2024
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 49569   DP = 0
+Not_Before: Tue Nov  5 15:52:40 2019   Not_After: Mon Nov  4 15:52:40 2024
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 50635   DP = 0
+Not_Before: Tue Aug 10 16:42:25 2021   Not_After: Mon Aug 10 16:42:25 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 52848   DP = 0
+Not_Before: Tue Aug  3 16:07:25 2021   Not_After: Mon Aug  3 16:07:25 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 56812   DP = 0
+Not_Before: Sun Aug  8 16:32:25 2021   Not_After: Sat Aug  8 16:32:25 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 60419   DP = 0
+Not_Before: Thu Aug  5 16:17:25 2021   Not_After: Wed Aug  5 16:17:25 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 67683   DP = 0
+Not_Before: Sat Aug  7 16:27:24 2021   Not_After: Fri Aug  7 16:27:24 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 73270   DP = 0
+Not_Before: Tue Aug  3 13:57:26 2021   Not_After: Mon Aug  3 13:57:26 2026
+
+Subject = CN=cp_mgmt,O=my-fwmanager.my-domain-name.local.hkac59
+Status = Valid   Kind = SIC   Serial = 94636   DP = 0
+Not_Before: Mon Aug  9 16:37:25 2021   Not_After: Sun Aug  9 16:37:25 2026
+[Expert@my-fwmanager:0]# ^C
+[Expert@my-fwmanager:0]#
