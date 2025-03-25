@@ -1,0 +1,50 @@
+Feb 23 04:23:27 MY_SERVER ntpd[3469]: no servers reachable
+Feb 23 04:40:32 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 23 04:57:33 MY_SERVER ntpd[3469]: time reset -1.215485 s
+Feb 23 05:01:26 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 23 13:09:04 MY_SERVER ntpd[3469]: no servers reachable
+Feb 23 13:38:55 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 23 13:47:27 MY_SERVER ntpd[3469]: time reset -1.620353 s
+Feb 23 13:51:12 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 23 20:45:49 MY_SERVER ntpd[3469]: time reset +0.140664 s
+Feb 23 20:49:26 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 24 03:18:27 MY_SERVER ntpd[3469]: time reset -0.164220 s
+Feb 24 03:22:36 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 24 14:16:07 MY_SERVER ntpd[3469]: time reset -1.745498 s
+Feb 24 14:19:43 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 24 20:23:21 MY_SERVER ntpd[3469]: time reset +0.257948 s
+Feb 24 20:27:21 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 25 04:47:59 MY_SERVER ntpd[3469]: time reset -0.195481 s
+Feb 25 04:51:55 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 25 13:05:25 MY_SERVER ntpd[3469]: no servers reachable
+Feb 25 13:56:39 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 25 14:30:48 MY_SERVER ntpd[3469]: time reset -1.786973 s
+Feb 25 14:34:37 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 25 22:40:57 MY_SERVER ntpd[3469]: time reset -0.188168 s
+Feb 25 22:44:25 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 26 12:05:05 MY_SERVER ntpd[3469]: time reset +0.180844 s
+Feb 26 12:08:43 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 26 13:08:55 MY_SERVER ntpd[3469]: no servers reachable
+Feb 26 13:23:52 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 26 13:40:54 MY_SERVER ntpd[3469]: time reset -1.775241 s
+Feb 26 13:44:24 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 27 04:41:27 MY_SERVER ntpd[3469]: time reset -0.166740 s
+Feb 27 04:45:13 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 27 13:12:33 MY_SERVER ntpd[3469]: no servers reachable
+Feb 27 13:29:39 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 27 14:03:45 MY_SERVER ntpd[3469]: time reset -1.708283 s
+Feb 27 14:08:00 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 28 03:33:24 MY_SERVER ntpd[3469]: time reset -0.234300 s
+Feb 28 03:37:26 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 28 09:28:54 MY_SERVER ntpd[3469]: time reset +0.132539 s
+Feb 28 09:33:08 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Feb 28 14:25:00 MY_SERVER ntpd[3469]: time reset -1.945035 s
+Feb 28 14:28:44 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Mar  1 05:08:29 MY_SERVER ntpd[3469]: time reset -0.180153 s
+Mar  1 05:12:12 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Mar  1 11:52:04 MY_SERVER ntpd[3469]: time reset +0.142401 s
+Mar  1 11:55:40 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Mar  1 13:17:15 MY_SERVER ntpd[3469]: no servers reachable
+Mar  1 13:42:55 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
+Mar  1 14:04:14 MY_SERVER ntpd[3469]: time reset -2.241699 s
+Mar  1 14:08:28 MY_SERVER ntpd[3469]: synchronized to 10.10.10.10, stratum 8
